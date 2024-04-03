@@ -1,0 +1,5 @@
+En este desafio agrueguè el procesos de generar registros 
+"HISTORIALES" de tal modo de :
+1.- Mantener todo la bitacora de Pedidos de Te
+2.- Que ese banco de datos sirviera para ir manteniendo Estadisticas (Graficos) generados para el propietario.
+NOTA Se adjunta una imagen obtenida en forma simple desde Excel ("graf Desaf Te(Clases))

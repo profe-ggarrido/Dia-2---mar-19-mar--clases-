@@ -1,0 +1,20 @@
+Sabor: T� negro, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparaci�n: 3 minutos, Recomendaci�n: Desayuno
+Sabor: Té negro, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparación: 3 minutos, Recomendación: Desayuno
+Sabor: Té negro, Formato: 2 (500 gr), Precio: $5000, Tiempo de preparación: 3 minutos, Recomendación: Desayuno
+Sabor: Té negro, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparación: 3 minutos, Recomendación: Desayuno
+Sabor: Té verde, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparación: 5 minutos, Recomendación: Medio día
+Sabor: Té verde, Formato: 2 (500 gr), Precio: $5000, Tiempo de preparación: 5 minutos, Recomendación: Medio día
+Sabor: Infusión de hierbas, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparación: 6 minutos, Recomendación: Atardecer
+Sabor: Infusión de hierbas, Formato: 2 (500 gr), Precio: $5000, Tiempo de preparación: 6 minutos, Recomendación: Atardecer
+2024-04-02 21:45:39 - gabriel: Sabor: Té negro, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparación: 3 minutos, Recomendación: Desayuno
+2024-04-02 21:50:22 - pedro: Sabor: Té verde, Formato: 2 (500 gr), Precio: $5000, Tiempo de preparación: 5 minutos, Recomendación: Medio día
+2024-04-03 08:43:37 - Felipe: Sabor: Té verde, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparación: 5 minutos, Recomendación: Medio día
+2024-04-03 08:43:56 - dora: Sabor: Té verde, Formato: 2 (500 gr), Precio: $5000, Tiempo de preparación: 5 minutos, Recomendación: Medio día
+2024-04-03 08:44:11 - sonia: Sabor: Té negro, Formato: 2 (500 gr), Precio: $5000, Tiempo de preparación: 3 minutos, Recomendación: Desayuno
+2024-04-03 08:44:25 - dagoberto: Sabor: Infusión de hierbas, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparación: 6 minutos, Recomendación: Atardecer
+2024-04-03 08:44:37 - penelope: Sabor: Infusión de hierbas, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparación: 6 minutos, Recomendación: Atardecer
+2024-04-03 08:44:55 - natalie: Sabor: Té verde, Formato: 2 (500 gr), Precio: $5000, Tiempo de preparación: 5 minutos, Recomendación: Medio día
+2024-04-03 08:45:06 - manuel: Sabor: Infusión de hierbas, Formato: 2 (500 gr), Precio: $5000, Tiempo de preparación: 6 minutos, Recomendación: Atardecer
+2024-04-03 08:45:17 - Begoña: Sabor: Infusión de hierbas, Formato: 2 (500 gr), Precio: $5000, Tiempo de preparación: 6 minutos, Recomendación: Atardecer
+2024-04-03 08:45:32 - Ana: Sabor: Té negro, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparación: 3 minutos, Recomendación: Desayuno
+2024-04-03 08:45:39 - Ana: Sabor: Té negro, Formato: 1 (300 gr), Precio: $3000, Tiempo de preparación: 3 minutos, Recomendación: Desayuno
